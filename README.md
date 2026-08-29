@@ -10,7 +10,8 @@ Learning by Building ✨
 - 🚀 Turning ideas into projects
 
 ## Projects
-[☕ CoffeeProject](https://github.com/haifacodes/CoffeeProject)
+[☕ CoffeeProject](https://github.com/haifacodes/CoffeeProject) -  An OOP project built while learning and practicing object-oriented programming.
+
 
 ## Currently
 Building, experimenting, and improving one project at a time.
