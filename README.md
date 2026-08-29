@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Haifa 👋
 
-<!--
-**haifacodes/haifacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student 💻  
+Learning by Building ✨
 
-Here are some ideas to get you started:
+## About Me
+- 💻Computer Science student
+- 🧩 I learn best by building and experimenting
+- 🌱 Always learning something new
+- 🚀 Turning ideas into projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+☕ **CoffeeProject** — An OOP project built while learning and practicing object-oriented programming.
+
+## Currently
+Building, experimenting, and improving one project at a time.
